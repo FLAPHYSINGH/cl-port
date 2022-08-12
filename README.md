@@ -12,4 +12,6 @@
 	{"name":"Move Your Body"}
 10. http://clportfolio.com/index.php/api/song/showArtist
 Methord GET
+Response: 
+{"status":"success","message":"Show Artist Details","data":[{"asartist_name":"Lata","album_name":"Old West Clothing","album_year":"1990-08-12"},{"asartist_name":"Lata","album_name":"A mere Vatan Ke logo","album_year":"1990-08-12"},{"asartist_name":"Kishor","album_name":"Tum DIl ki","album_year":"1990-08-12"},{"asartist_name":"Kishor","album_name":"Yearly Income","album_year":"2022-02-07"}]}
 11. All Api GET Methord
