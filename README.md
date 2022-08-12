@@ -1,7 +1,7 @@
 # For Setup Project
  This Project Based On CI3 Frame Work
 1. Clone Project
-2. Use data base from sql_diff.sql
+2.  Create a database "sphera" use sql query from sql_diff.sql
 3. Change Usermame ,Password ,Host and database Name
 4. Database Details Define in   "cl-port/application/config/basic_setup.php"
 5. For Browser Controller Please Check  Billing Controller path "cl-port/application/controllers/Billing.php"
